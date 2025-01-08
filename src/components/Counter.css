@@ -1,0 +1,24 @@
+.container{
+    width: 25%;
+    height: 100px;
+    border-radius: 20px;
+    background-color: #e29bad;
+}
+
+.btn{
+    background-color: #9b9be2;
+    padding: 5px 5px;
+    border-radius: 6px;
+    transform: translateX(220%);
+}
+
+.btn:hover{
+    background-color: #c191ce;
+    transition: background-color 7s;
+}
+
+#para{
+    display: flex;
+    justify-content: center;
+    padding: 10px 3px; 
+}
